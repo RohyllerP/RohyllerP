@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @RohyllerP
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-RohyllerP/RohyllerP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Soy Rohyller Pereira
+- Trabajo con html,css,javascript
+- Se trabajar a nivel de backend con Mysql,MondoDB y Node js
