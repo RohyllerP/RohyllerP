@@ -1,14 +1,12 @@
 Rohyller Pereira - Desarrollador Front-End
 
 Experiencia:
-3 años desarrollando con HTML, CSS y preprocesadores (Sass y Less)
-● Manejo de bases de datos:
- ○ SQL (MySQL, SQL Server).
- ○ No relacionales (MongoDB, Firebase).
-● 1 año de experiencia:
- ○ React JS y Next JS.
- ○ API REST.
-● Git: Experiencia en control de versiones
+3 años desarrollando con HTML, CSS y preprocesadores (Sass y Less),
+Manejo de bases de datos: 
+SQL (MySQL, SQL Server) 
+No relacionales (MongoDB, Firebase)
+1 año de experiencia: (React JS y Next JS) (API REST).
+Git: Experiencia en control de versiones
 
 Habilidades:
 Gran capacidad de comunicación y empatía con el cliente.
